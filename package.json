@@ -1,0 +1,12 @@
+{
+  "name": "coreui-styles",
+  "version": "0.0.0",
+  "description": "The styles from the great CoreUI theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
