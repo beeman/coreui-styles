@@ -1,6 +1,6 @@
 {
   "name": "coreui-styles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The styles from the great CoreUI theme",
   "main": "index.js",
   "scripts": {
