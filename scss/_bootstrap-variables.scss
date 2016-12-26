@@ -4,17 +4,17 @@
 //
 // Grayscale and brand colors for use across Bootstrap.
 
-$gray-dark:                 #263238;
-$gray:                      #607d8b;
-$gray-light:                #b0bec5;
-$gray-lighter:              #cfd8dc;
-$gray-lightest:             #eceff1;
+$gray-dark:                 #263238 !default;
+$gray:                      #607d8b !default;
+$gray-light:                #b0bec5 !default;
+$gray-lighter:              #cfd8dc !default;
+$gray-lightest:             #eceff1 !default;
 
-$brand-primary:             #20a8d8;
-$brand-success:             #4dbd74;
-$brand-info:                #63c2de;
-$brand-warning:             #f8cb00;
-$brand-danger:              #f86c6b;
+$brand-primary:             #20a8d8 !default;
+$brand-success:             #4dbd74 !default;
+$brand-info:                #63c2de !default;
+$brand-warning:             #f8cb00 !default;
+$brand-danger:              #f86c6b !default;
 
 // Options
 //
@@ -62,7 +62,7 @@ $spacers: (
 //
 // Settings for the `<body>` element.
 
-$body-bg:                    #e4e5e6;
+$body-bg:                    #e4e5e6 !default;
 
 // Typography
 //
@@ -72,7 +72,7 @@ $font-size-base:             0.875rem;
 
 // Breadcrumbs
 
-$breadcrumb-bg:                 #fff;
+$breadcrumb-bg:                 #fff !default;
 
 // Cards
 
